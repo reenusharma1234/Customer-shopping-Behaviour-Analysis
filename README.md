@@ -5,6 +5,8 @@ The Customer Shopping Behaviour Analysis project focuses on analyzing customer p
 In today’s retail and e-commerce environment, businesses generate large volumes of data, but this data becomes valuable only when transformed into actionable insights. This project uses data analysis techniques to understand customer behavior and support better decision-making.
 
 🎯 Objectives
+
+
 Analyze customer purchasing patterns
 Identify high-value customers
 Understand customer frequency and spending habits
@@ -13,31 +15,35 @@ Provide insights to improve business strategies
 
 
 🚀 Features
-📊 Customer Segmentation
-🛒 Purchase Pattern Analysis
-💰 Revenue Analysis
-📈 Data Visualization (Charts & Dashboards)
-📉 Trend Analysis
-📦 Product Performance Insights
-🧠 Technologies Used
-💻 Programming & Tools
+
+Customer Segmentation
+Purchase Pattern Analysis
+ Revenue Analysis
+ Data Visualization (Charts & Dashboards)
+ Trend Analysis
+Product Performance Insights
+Technologies Used
+Programming & Tools
 Python
 Jupyter Notebook
 MySQL
 Power Bi
 
 📚 Libraries
+
 Pandas
 NumPy
 Matplotlib / Seaborn / Plotly
 
 
 📊 Data Handling
+
 CSV Dataset
 Data Cleaning & Preprocessing
 
 
 ⚙️ Workflow
+
 Data Collection
 Import customer transaction dataset
 Data Cleaning
@@ -57,6 +63,7 @@ Suggest improvements
 
 
 📊 Key Analysis Performed
+
 Customer Lifetime Value (CLV)
 Frequency of Purchases
 Revenue Contribution by Customers
@@ -65,6 +72,7 @@ Customer Segmentation (High, Medium, Low value)
 
 
 🖥️ Requirements
+
 Hardware
 Minimum 4GB RAM
 Basic processor (i3 or above)
