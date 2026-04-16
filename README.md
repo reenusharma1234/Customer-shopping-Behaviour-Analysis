@@ -30,10 +30,10 @@ Product Performance Insights
 
 🎯 Technologies Used
 
-Programming & Tools
-Python
-Jupyter Notebook
-MySQL
+Programming & Tools/
+Python/
+Jupyter Notebook/
+MySQL/
 Power Bi
 
 📚 Libraries
